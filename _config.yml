@@ -1,10 +1,11 @@
-lsi: false
+LSI: false
 safe: true
-source: [your repo's top level directory]
+source: [your repo's top-level directory]
 incremental: false
 highlighter: rouge
 gist:
-  noscript: false
-kramdown:
+  NoScript: false
+cramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+theme: Jekyll-theme-minimal
